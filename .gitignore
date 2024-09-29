@@ -10,9 +10,9 @@ secret.*
 .DS_Store
 
 # airflow files
-airflow/config/
-airflow/logs/
-airflow/plugins/
+config/
+logs/
+plugins/
 
 # C extensions
 *.so
