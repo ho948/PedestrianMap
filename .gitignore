@@ -9,6 +9,11 @@ secret.*
 *.env
 .DS_Store
 
+# airflow files
+airflow/config/
+airflow/logs/
+airflow/plugins/
+
 # C extensions
 *.so
 
